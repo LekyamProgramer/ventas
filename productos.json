@@ -1,0 +1,10 @@
+[
+    {
+        "id": "1111",
+        "nombre": "papa fritaa",
+        "descripcion": "unas papas",
+        "precio_unitario": 0.05,
+        "stock_actual": 0,
+        "activo": true
+    }
+]
