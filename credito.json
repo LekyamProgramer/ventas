@@ -1,0 +1,74 @@
+[
+    {
+        "id": "121212",
+        "cabecera_venta": "1111",
+        "total_credito": 100.0,
+        "saldo_credito": 100.0,
+        "estado": "Pendiente",
+        "pagos": []
+    },
+    {
+        "id": "1122",
+        "cabecera_venta": "121213",
+        "total_credito": 100.0,
+        "saldo_credito": 100.0,
+        "estado": "10",
+        "pagos": []
+    },
+    {
+        "id": "121212",
+        "cabecera_venta": "5555",
+        "total_credito": 1002.0,
+        "saldo_credito": 1002.0,
+        "estado": "20",
+        "pagos": []
+    },
+    {
+        "id": "8888",
+        "cabecera_venta": "5555",
+        "total_credito": 1220.0,
+        "saldo_credito": 1220.0,
+        "estado": "10",
+        "pagos": []
+    },
+    {
+        "id": "545",
+        "cabecera_venta": "666",
+        "total_credito": 880.0,
+        "saldo_credito": 880.0,
+        "estado": "& C:/Users/mario/AppData/Local/Programs/Python/Python313/python.exe c:/Users/mario/Downloads/venta_json/venta_json/credito.py",
+        "pagos": []
+    },
+    {
+        "id": "4545454",
+        "cabecera_venta": "99",
+        "total_credito": 88888.0,
+        "saldo_credito": 88888.0,
+        "estado": "88",
+        "pagos": []
+    },
+    {
+        "id": "787878",
+        "cabecera_venta": "9999",
+        "total_credito": 66.0,
+        "saldo_credito": 66.0,
+        "estado": "pendiente",
+        "pagos": []
+    },
+    {
+        "id": "111",
+        "cabecera_venta": "222",
+        "total_credito": 66.0,
+        "saldo_credito": 66.0,
+        "estado": "pendiente",
+        "pagos": []
+    },
+    {
+        "id": "444",
+        "cabecera_venta": "555555448",
+        "total_credito": 99589.0,
+        "saldo_credito": 99589.0,
+        "estado": "pendiente",
+        "pagos": []
+    }
+]
